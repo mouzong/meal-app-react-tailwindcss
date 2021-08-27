@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build to showcase the use of Tailwind CSS and react js in a single project
 
 ## Available Scripts
 
-In the project directory, you can run:
+this project was crafted by `@andreas`
 
 ### `yarn start`
 
